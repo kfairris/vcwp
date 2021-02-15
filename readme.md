@@ -17,5 +17,3 @@ The website content that was used in the brownbag is WordPress theme unit test d
 ## Want to learn more?
 
 VCWP is a minimal theme that gives you only what you need to get started. If you want to dive deeper, including creating a search results page, adding support for content types, and making it easily translatable into other languages, check out the [Underscores starter theme](https://underscores.me/).
-
-Test
